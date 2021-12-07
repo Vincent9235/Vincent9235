@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vincent9235
 - 👀 I’m interested in web developpement and big data
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MongoDB, Node and ReactJS
 - 📫 How to reach me: coming soon
 
 <!---
